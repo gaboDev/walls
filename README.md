@@ -1,5 +1,6 @@
 ### Running files
 > `node original.js`
+
 > `node refactored.js`
 
 ### Files
@@ -8,7 +9,7 @@
 
 `refactored.js` new approach file.
 
-###Approach: Recursive and fixed array items
+### Approach: Recursive and fixed array items
 
 The approach is to use recursion instead of nested loops. 
 
